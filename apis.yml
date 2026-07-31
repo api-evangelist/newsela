@@ -1,8 +1,28 @@
 aid: newsela
 name: Newsela
-description: Newsela is a company surfaced as a portfolio company of techstars and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Newsela is a K-12 content and assessment platform that provides
+  research-backed, engaging, differentiated reading content and AI-powered
+  tools across ELA, social studies, STEM, and writing to support educators
+  and drive student growth in grades 3-12. Newsela publishes no public
+  developer API; it integrates with school systems as a certified 1EdTech
+  (IMS Global) product supporting OneRoster 1.1 rostering, LTI v1.3 launch,
+  and Data Privacy certification, and handles student data under FERPA, COPPA,
+  and state student-privacy laws. Added to the API Evangelist network as a
+  techstars portfolio company.
 url: https://raw.githubusercontent.com/api-evangelist/newsela/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://newsela.com/favicon.ico
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,9 +31,18 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Education
+- EdTech
+- K-12
+- Content
+- Assessment
+- Literacy
+- Reading
+- OneRoster
+- LTI
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +52,32 @@ maintainers:
 common:
 - type: Website
   url: https://newsela.com/
+- type: GettingStarted
+  url: https://newsela.com/getting-started
+- type: Support
+  url: https://support.newsela.com/
+- type: HelpCenter
+  url: https://support.newsela.com/
+- type: Blog
+  url: https://newsela.com/blog/all
+- type: SignUp
+  url: https://app.newsela.com/signin/
+- type: Login
+  url: https://app.newsela.com/signin/
+- type: TermsOfService
+  url: https://solutions.newsela.com/legal/terms
+- type: PrivacyPolicy
+  url: https://newsela.com/legal/newsela-privacy-policy
+- type: LLMsTxt
+  url: llms/newsela-llms.txt
+- type: DomainSecurity
+  url: security/newsela-domain-security.yml
+- type: Conformance
+  url: conformance/newsela-conformance.yml
+- type: Compliance
+  url: https://site.imsglobal.org/certifications/newsela/newsela
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 3
+  pass: local-v1

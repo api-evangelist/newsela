@@ -1,0 +1,29 @@
+generated: '2026-07-20'
+method: searched
+source: https://site.imsglobal.org/certifications/newsela/newsela
+notes: >-
+  Newsela is a K-12 content and assessment platform. It does not publish a
+  public developer API; instead it conforms to ed-tech interoperability and
+  data-privacy standards as a certified 1EdTech (IMS Global) product. All
+  certifications below are for product version v25.10.30.1.
+standards:
+- id: oneroster-1.1
+  name: OneRoster 1.1 (CSV Rostering Import Bulk)
+  conforms: true
+  evidence: 1EdTech certified Nov 5 2025 (Registration IMSM2na2024W2)
+  source: https://site.imsglobal.org/certifications/newsela/newsela
+- id: lti-1.3
+  name: Learning Tools Interoperability (LTI) v1.3
+  conforms: true
+  evidence: 1EdTech certified Nov 11 2025 (Registration IMSD2C6na2025W2)
+  source: https://site.imsglobal.org/certifications/newsela/newsela
+- id: 1edtech-data-privacy
+  name: 1EdTech Data Privacy Certification
+  conforms: true
+  evidence: 1EdTech certified Nov 5 2025 (Registration IMSP1na2025W1)
+  source: https://site.imsglobal.org/certifications/newsela/newsela
+- id: ferpa
+  name: FERPA
+  conforms: true
+  evidence: Student data processed on behalf of schools under FERPA/COPPA and state student-privacy laws
+  source: https://newsela.com/legal/newsela-privacy-policy

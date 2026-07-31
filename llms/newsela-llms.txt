@@ -1,0 +1,51 @@
+# Newsela
+
+> Newsela is a content and assessment platform that provides research-backed, engaging, differentiated content and AI-powered tools to support educators and drive student growth.
+
+## Products
+
+- [Products Overview](https://newsela.com/products): Explore all Newsela products designed to engage, support, and grow every learner.
+- [Newsela ELA](https://newsela.com/products/ela): Differentiated texts, novel studies, and curriculum complements to support knowledge-rich literacy instruction.
+- [Newsela Social Studies](https://newsela.com/products/social-studies): Primary sources, biographies, current events, and interactive multimedia to support critical thinking and diverse perspectives.
+- [Newsela STEM](https://newsela.com/products/stem): Engaging videos, and standards-aligned texts, lessons and activities to support real-world science connections.
+- [Newsela Writing](https://newsela.com/products/writing): AI-powered, rubric-aligned writing feedback delivered in real time to support writing practice across the curriculum.
+- [Balanced Assessment by Formative](https://www.formative.com/balanced-assessment): Unify district assessments and deliver real-time, standards-aligned insights.
+- [Schoolytics](https://www.schoolytics.com/): Unify student data in one intuitive platform with role-based dashboards for actionable insights.
+- [What's New](https://newsela.com/whats-new): Latest product updates and features.
+- [Newsela Add-ons](https://newsela.com/products/add-ons): Additional features and enhancements for Newsela products.
+
+## Resources
+
+- [Resource Center](https://newsela.com/resource-center): Practical tips, guides, and success stories for educators.
+- [Get Started](https://newsela.com/getting-started): Resources to help you begin using Newsela.
+- [Success Stories](https://newsela.com/resource-center/success-stories): Real-world examples of Newsela's impact in schools and districts.
+- [Research](https://newsela.com/research-and-efficacy): Evidence-based research supporting Newsela's effectiveness.
+- [Guides](https://newsela.com/resource-center/guides): Step-by-step guides for using Newsela products.
+- [Blog](https://newsela.com/blog/all): Latest insights, tips, and stories from the education community.
+- [Webinars](https://newsela.com/resource-center/webinars): Professional development webinars for educators.
+- [Upcoming Events](https://newsela.com/events): Calendar of upcoming Newsela events and webinars.
+- [Funding](https://newsela.com/funding): Information on funding opportunities for Newsela products.
+- [Professional Learning](https://newsela.com/professional-learning): Professional development opportunities for educators.
+- [Get Certified](https://newsela.com/certifications): Newsela certification programs for educators.
+
+## Solutions
+
+- [Common Assessment](https://newsela.com/solutions/common-assessment): Solutions for implementing common assessments across classrooms and districts.
+- [Formative Assessment](https://newsela.com/solutions/formative-assessment): Tools and strategies for effective formative assessment.
+- [Differentiated Instruction](https://newsela.com/solutions/differentiated-instruction): Support for meeting diverse student needs.
+- [ELL Support](https://newsela.com/solutions/english-language-learners): Resources specifically designed for English Language Learners.
+- [Reading Comprehension](https://newsela.com/solutions/reading-comprehension-and-skilled-reading): Strategies and content to build reading comprehension skills.
+
+## About
+
+- [Our Story](https://newsela.com/company): Learn about Newsela's mission and history.
+- [Content Partners](https://newsela.com/partners): Trusted content providers partnering with Newsela.
+- [Press](https://newsela.com/press): Latest news and press releases about Newsela.
+- [Careers](https://newsela.com/careers): Join the Newsela team.
+
+## Additional Resources
+
+- [Find Your State](https://newsela.com/states): State-specific information and resources.
+- [Contact Sales](https://newsela.com/contact-us): Get in touch with the Newsela sales team.
+- [Contact Support](https://support.newsela.com/contact): Reach out to Newsela support for assistance.
+- [Support Center](https://support.newsela.com/): Access help articles and documentation.
