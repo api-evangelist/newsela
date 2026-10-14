@@ -53,7 +53,48 @@ edges:
       url: https://site.imsglobal.org/certifications/newsela/newsela/v2510301
     detected_by: sweep-edtech.py
     detected: '2026-10-14'
+- partner_name: Canvas (eduappcenter)
+  partner: canvas
+  partner_match: mirror
+  mirror_match: domain
+  type: marketplace
+  relationship: platform-app
+  direction: third-party
+  channel: partner-built
+  marketplace: eduappcenter
+  evidence: https://www.eduappcenter.com/api/v1/lti_apps
+  mirror_of: canvas/integrations/canvas-integration-edges.yml
+  apps: []
+  listing_count: 1
+  detected: '2026-10-14'
+  detected_by: mirror-platform-listings.py
+  category: Course Nav, Assessment, Content, Open Content
+- partner_name: Clever (clever-app-gallery)
+  partner: clever
+  partner_match: mirror
+  mirror_match: domain
+  type: marketplace
+  relationship: platform-app
+  direction: third-party
+  channel: partner-built
+  marketplace: clever-app-gallery
+  evidence: https://clever.com/app-gallery
+  mirror_of: clever/integrations/clever-integration-edges.yml
+  apps: []
+  listing_count: 1
+  detected: '2026-10-14'
+  detected_by: mirror-platform-listings.py
+  category: reading, social_studies, science
+  features:
+  - instant_login
+  - secure_sync
+  - library_support
 generated: '2026-10-14'
 method: searched
 checked:
+- canvas/integrations/canvas-integration-edges.yml
+- clever/integrations/clever-integration-edges.yml
 - https://site.imsglobal.org/certifications
+source:
+- canvas/integrations/canvas-integration-edges.yml
+- clever/integrations/clever-integration-edges.yml
