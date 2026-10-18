@@ -89,11 +89,29 @@ edges:
   - instant_login
   - secure_sync
   - library_support
+- partner_name: Google Workspace (own)
+  partner: google-workspace
+  partner_match: mirror
+  mirror_match: domain
+  type: marketplace
+  relationship: platform-app
+  direction: third-party
+  channel: partner-built
+  marketplace: own
+  evidence: https://workspace.google.com/marketplace/app/newsela/972591127561
+  mirror_of: google-workspace/integrations/google-workspace-integration-edges.yml
+  apps:
+  - Newsela
+  listing_count: 1
+  detected: '2026-10-18'
+  detected_by: mirror-platform-listings.py
+  category: Google Workspace app
 generated: '2026-10-14'
 method: searched
 checked:
 - canvas/integrations/canvas-integration-edges.yml
 - clever/integrations/clever-integration-edges.yml
+- google-workspace/integrations/google-workspace-integration-edges.yml
 - https://site.imsglobal.org/certifications
 source:
 - canvas/integrations/canvas-integration-edges.yml
